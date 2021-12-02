@@ -8,3 +8,34 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.navbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 75px;
+  list-style-type: none;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+
+#navbar-dropdown-icon {
+  background-color: white;
+}
+
+#band-logo {
+  width: 30%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px;
+}
