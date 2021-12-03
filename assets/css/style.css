@@ -1,12 +1,25 @@
 body {
-    font-family: 'Raleway', sans-serif;
-    color: white;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../images/frakard-website-image.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 760px) {
+  body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url("../images/frakard-website-image.jpg");
+      url("../images/frakard-website-bg-mobile.jpg");
     height: 100vh;
+    width: 100vw;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+  }
 }
 
 .navbar {
@@ -17,19 +30,25 @@ body {
 }
 
 .navbar a {
-  float: left;
-  display: block;
   text-align: center;
   text-decoration: none;
-  padding: 14px 75px;
+  padding: 0px 10px;
   list-style-type: none;
   color: white;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
 }
 
-#navbar-dropdown-icon {
-  background-color: white;
+.navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.navbar-nav>li {
+  display: inline-block;
+  float: none;
 }
 
 #band-logo {
