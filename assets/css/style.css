@@ -10,16 +10,9 @@ body {
   background-repeat: no-repeat;
 }
 
-@media only screen and (max-width: 760px) {
-  body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url("../images/frakard-website-bg-mobile.jpg");
-    height: 100vh;
-    width: 100vw;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+.navbar-toggler-icon {
+  float: none;
+  margin-right:0;
 }
 
 .navbar {
@@ -52,9 +45,27 @@ body {
 }
 
 #band-logo {
-  width: 30%;
+  width: 40%;
   position: fixed;
   top: 0;
   right: 0;
   padding: 15px;
+}
+
+@media only screen and (max-width: 760px) {
+  body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("../images/frakard-mobile-bg-2.jpeg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #band-logo {
+    width: 100%;
+  }
 }
