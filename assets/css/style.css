@@ -10,6 +10,8 @@ body {
   background-repeat: no-repeat;
 }
 
+/* ------ Navbar ------- */
+
 .navbar-toggler-icon {
   float: none;
   margin-right:0;
@@ -44,6 +46,18 @@ body {
   float: none;
 }
 
+.navbar li a:hover {
+  text-decoration: none;
+  border-bottom: 4px solid #b82f1d;
+  -o-transition:.4s;
+  -ms-transition:.4s;
+  -moz-transition:.4s;
+  -webkit-transition:.4s;
+  transition:.4s;
+}
+
+/* ------ Logo ------- */
+
 #band-logo {
   width: 40%;
   position: fixed;
@@ -51,6 +65,16 @@ body {
   right: 0;
   padding: 15px;
 }
+
+/* ------ Single ------- */
+
+.single-announcement {
+  text-align: center;
+  margin-bottom: 50px;
+  bottom: 0;
+}
+
+/* ------ Media queries ------- */
 
 @media only screen and (max-width: 760px) {
   body {
