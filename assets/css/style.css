@@ -69,8 +69,16 @@ body {
 /* ------ Social Links ------- */
 
 .social-links {
-  display: block;
-  justify-content: center;
+  display: flex;
+  height: 100vh;
+}
+
+.social-links i {
+  color: #b82f1d;
+}
+
+.social-links i:hover {
+  color: #490c04;
 }
 
 /* ------ Single ------- */
