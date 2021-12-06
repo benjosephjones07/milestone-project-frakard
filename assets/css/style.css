@@ -70,12 +70,15 @@ body {
 
 .social-links {
   display: block;
+  justify-content: center;
 }
 
 /* ------ Single ------- */
 
 .single-announcement {
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: -2px;
   margin-bottom: 50px;
   bottom: 0;
   font-family: 'Raleway', sans-serif;
