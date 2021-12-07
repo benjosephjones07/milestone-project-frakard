@@ -93,6 +93,15 @@ body {
   font-weight: 400;
 }
 
+#outnow {
+  text-decoration: none;
+  color: white;
+}
+
+#outnow:hover {
+  color: #b82f1d;
+}
+
 /* ------ Media queries ------- */
 
 @media only screen and (max-width: 760px) {
