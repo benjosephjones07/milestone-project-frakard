@@ -68,9 +68,11 @@ body {
 
 /* ------ Social Links ------- */
 
-.social-links {
+.music-and-socials {
+  min-height: 100%;
+  min-height: 100vh;
   display: flex;
-  height: 100vh;
+  align-items: center;
 }
 
 .social-links i {
@@ -100,6 +102,12 @@ body {
 
 #outnow:hover {
   color: #b82f1d;
+}
+
+/* ------ Music player ------- */
+
+iframe {
+  border: none;
 }
 
 /* ------ Media queries ------- */
