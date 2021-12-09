@@ -75,6 +75,11 @@ body {
   align-items: center;
 }
 
+.social-links {
+  padding-left: 20px;
+}
+
+
 .social-links i {
   color: #b82f1d;
 }
@@ -104,11 +109,15 @@ body {
   color: #b82f1d;
 }
 
-/* ------ Music player ------- */
+/* ------ Audio player ------- */
 
 iframe {
   border: none;
 }
+
+/* ------ Video player ------- */
+
+
 
 /* ------ Media queries ------- */
 
