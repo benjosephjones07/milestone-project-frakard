@@ -119,6 +119,30 @@ iframe {
 
 
 
+/* ------ Contact form ------- */
+
+.contact-form textarea {
+  width: 100%;
+}
+
+.contact-form label {
+  text-transform: uppercase;
+}
+
+.contact-form input[type=text], input[type=email] {
+  margin: 8px 0;
+}
+
+input[type=button], input[type=submit] {
+  background-color: #b82f1d;
+  border: none;
+  border-radius: 5%;
+}
+
+input[type=button], input[type=submit]:hover {
+  background-color: #490c04;
+}
+
 /* ------ Media queries ------- */
 
 @media only screen and (max-width: 760px) {
