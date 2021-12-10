@@ -111,7 +111,7 @@ body {
 
 /* ------ Audio player ------- */
 
-iframe {
+.audio-player iframe {
   border: none;
 }
 
@@ -137,10 +137,28 @@ input[type=button], input[type=submit] {
   background-color: #b82f1d;
   border: none;
   border-radius: 5%;
+  display: block;
+  margin: 0 auto;
 }
 
 input[type=button], input[type=submit]:hover {
   background-color: #490c04;
+}
+
+/* ------ Gig listings ------- */
+
+.gig-listings h2 {
+  text-transform: uppercase;
+}
+
+.gig-listings ul a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #b82f1d;
+}
+
+.gig-listings ul a:hover {
+  color: #490c04;
 }
 
 /* ------ Media queries ------- */
@@ -158,7 +176,7 @@ input[type=button], input[type=submit]:hover {
 }
 
 @media only screen and (max-width: 760px) {
-  .audio-player iframe {
+  .audio-player iframe, .video-player iframe {
     width: 100%;
   }
 }
