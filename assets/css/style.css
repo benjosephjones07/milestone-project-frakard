@@ -149,6 +149,7 @@ input[type=button], input[type=submit]:hover {
 
 .gig-listings h2 {
   text-transform: uppercase;
+  letter-spacing: 25px;
 }
 
 .gig-listings ul a {
@@ -159,6 +160,14 @@ input[type=button], input[type=submit]:hover {
 
 .gig-listings ul a:hover {
   color: #490c04;
+}
+
+.dates-wrapper {
+  background-color: black;
+  border: 1px solid white;
+  margin-top: 2px;
+  padding-top: 15px;
+  padding-right: 15px;
 }
 
 /* ------ Media queries ------- */
