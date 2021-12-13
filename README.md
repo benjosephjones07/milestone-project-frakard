@@ -8,7 +8,7 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 ---
 ## User Experience (UX)
 
-* User stories
+* ### User stories
 
     * First time visitor goals
         * (a) As a first time visitor I want to be able to see, hear and 'experience' the band.
@@ -25,7 +25,7 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
         * (b) As a frequent user I want to
         * (c) As a frequent user I want to
 
-* Design
+* ### Design
 
     * Colour scheme
         * The two main colours used are white and frakard burgundy, with a darker shade on the hovered desktop links.
@@ -35,3 +35,48 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
     * Imagery
         * The websites most eye catching feature is the full screen sized background image of the band in live performance, with a dark overlay on it. The band are very much a 'live band' and wanted this to be the main feature of the website, and what people will first see when they visit. The dark overlay and darker colours used throughout correspond to the darker and heavier musical style of the group.
+
+* ### Wireframes
+
+    * Home page wireframe - view
+    * Music page wireframe - view
+    * Video page wireframe - view
+    * Gigs page wireframe - view
+    * Contact page wireframe - view
+
+## Features
+
+    * Music player from Spotify
+    * Video presentation from Youtube
+    * Current gig listings
+    * Contact page
+    * Responsive on all devices
+    * Interactive nav bar
+
+## Technologies used
+
+### Languages used
+
+    * HTML5
+    * CSS 3
+
+### Frameworks, libraries and programmes used
+
+    1. Bootstrap 5.0 was used to assist in styling and responsiveness
+    2. Google fonts was used for typography
+    3. Font awesome was used for icons throughout
+    4. Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
+    5. Github was used to store the code after being pushed from Gitpod
+    6. Balsamiq was used to create the wireframes
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+    * W3C HTML validator results - view
+    * W3C CSS validator results - view
+
+### Testing User Stories from User Experience (UX) Section
+
+    * First time visitor goals
+        * 
