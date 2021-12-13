@@ -10,31 +10,31 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 * ### User stories
 
-    * First time visitor goals
+    * __First time visitor goals__
         * (a) As a first time visitor I want to be able to see, hear and 'experience' the band.
         * (b) As a first time visitor I want to be able to intuitively use the website and find the content that I'm looking for.
         * (c) As a first time visitor I want to easily find the band's social media links in order to find out about what they are doing currently and in the future.
 
-    * Returning visitor goals
+    * __Returning visitor goals__
         * (a) As a returning visitor I want to be able to contact the band for various reasons.
         * (b) As a returning visitor I want to be able to hear different songs from the band.
 
-    * Frequent user goals
+    * __Frequent user goals__
         * (a) As a frequent user I want to keep up to date with live appearances that the band are making.
-        * (b) As a frequent user I want to quickly see what the band are pushing/most proud of right now
+        * (b) As a frequent user I want to quickly see what the band are pushing/most proud of right now.
 
 * ### Design
 
-    * Colour scheme
+    * __Colour scheme__
         * The two main colours used are white and frakard burgundy, with a darker shade on the hovered desktop links.
 
-    * Typography
+    * __Typography__
         * The main font used throughout the site is Raleway, with sans-serif used as a back up incase an error occurs with the google fonts CDN. Raleway was used for its similarity in appearance to the band logo and general aesthetic compatilibility with the website.
 
-    * Imagery
+    * __Imagery__
         * The websites most eye catching feature is the full screen sized background image of the band in live performance, with a dark overlay on it. The band are very much a 'live band' and wanted this to be the main feature of the website, and what people will first see when they visit. The dark overlay and darker colours used throughout correspond to the darker and heavier musical style of the group.
 
-    * Layout
+    * __Layout__
         * The website has been designed with several unconventional design choices in mind. This is to go along with the sense of unconventional artistic originality that is important to the band. For exmaple, the content on each page has been centered, with the links to social media directly to the side of the main content.
 
 * ### Wireframes
@@ -82,23 +82,23 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Testing User Stories from User Experience (UX) Section
 
 * First time visitor goals
-    * (a) to be able to see, hear and 'experience' the band
+    * (a) to be able to see, hear and 'experience' the band.
         * When you first visit the website you are greeted by a fullpage image of the band allowing you to see them. Within one click you are taken to the music page where you can hear the band. Within one other click you are taken to the video page where you can experience the band performing live.
-    * (b) to intuitively use the website and find the content that I'm looking for
+    * (b) to intuitively use the website and find the content that I'm looking for.
         * The website has a minimal amount of pages that are all straight forwardly titled to aid in navigation. The navbar is simple and eye catching which further aids in this. 
-    * (c) to easily find the band's social media links in order to find out about what they are doing currently and in the future
+    * (c) to easily find the band's social media links in order to find out about what they are doing currently and in the future.
         * The 3 primary social media links the band uses are prominently displayed on the home page, and purposefully right next to the main content on each of the remaining pages.
 
     * Returning visitor goals
-        * (a) to be able to contact the band for various reasons
+        * (a) to be able to contact the band for various reasons.
             * contact.html is clearly visible in the navbar at the bottom of the page. The text prompt 'What's on your mind?' is general and inviting to the user.
-        * (b) to be able to hear different songs from the band
-            * On the music.html page is a Spotify music player where the user can find several songs snippets from the band. If the user is logged into their Spotify account then they can hear the full song. This player updates according to the most popular songs from the band on Spotify
+        * (b) to be able to hear different songs from the band.
+            * On the music.html page is a Spotify music player where the user can find several songs snippets from the band. If the user is logged into their Spotify account then they can hear the full song. This player updates according to the most popular songs from the band on Spotify.
 
     * Frequent user goals
         * (a) to keep up to date with live appearances that the band are making.
             * gig.html is clearly visible in the navbar at the bottom of the page. The gig listings present on this page will be regularly updated and added to.
-        * (b) to quickly see what the band are pushing/most proud of right now
+        * (b) to quickly see what the band are pushing/most proud of right now.
             * In the bottom center of the home page is a callout that currently says 'Debut single 'Dogs Dinner' out now'. This immediately notifies the user of what the band are currently promoting, and will be periodically updated. 
 
 ### Further testing
@@ -122,16 +122,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Code
 
-* Bootstrap 5 was used frequently throughout project development for the purposes of responsiveness and grid system layout
+* Bootstrap 5 was used frequently throughout project development for the purposes of responsiveness and grid system layout.
+* [This](https://github.com/Code-Institute-Solutions/SampleREADME#code-institute-website) Code Institute README.md template was consulted and tailored during the writing of this README.md file for the purposes of structure, typical README.md contents, and boiler plate materials.
 
 ### Content
 
-* All content was written by the developer
+* All content was written by the developer.
 
 ### Media
 
-* The background image was taken by Gabe Jones with usage rights belonging to Frakard
-* All other images were created by the developer
+* The background image was taken by Gabe Jones with usage rights belonging to Frakard.
+* All other images were created by the developer.
 
 ### Acknowledgements
 
