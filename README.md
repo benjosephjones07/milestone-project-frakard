@@ -39,11 +39,11 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 * ### Wireframes
 
-    * Home page wireframe - [view](assets/images/Home wireframe.png)
-    * Music page wireframe - [view](assets/images/Music wireframe.png)
-    * Video page wireframe - [view](assets/images/Video wireframe.png)
-    * Gigs page wireframe - [view](assets/images/Gigs wireframe.png)
-    * Contact page wireframe - [view](assets/images/Contact wireframe.png)
+    * Home page wireframe - ![homepage](assets/images/Home wireframe.png)
+    * Music page wireframe - ![music page wireframe](assets/images/Music wireframe.png)
+    * Video page wireframe - ![video page wireframe](assets/images/Video wireframe.png)
+    * Gigs page wireframe - ![gigs page wireframe](assets/images/Gigs wireframe.png)
+    * Contact page wireframe - ![contact page wireframe](assets/images/Contact wireframe.png)
 
 ## Features
 
