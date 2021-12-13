@@ -39,11 +39,11 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 * ### Wireframes
 
-    * Home page wireframe - ![homepage](assets/images/Home wireframe.png)
-    * Music page wireframe - ![music page wireframe](assets/images/Music wireframe.png)
-    * Video page wireframe - ![video page wireframe](assets/images/Video wireframe.png)
-    * Gigs page wireframe - ![gigs page wireframe](assets/images/Gigs wireframe.png)
-    * Contact page wireframe - ![contact page wireframe](assets/images/Contact wireframe.png)
+    * Home page wireframe - ![homepage wireframe](assets/images/home-wireframe.png)
+    * Music page wireframe - ![music page wireframe](assets/images/music-wireframe.png)
+    * Video page wireframe - ![video page wireframe](assets/images/video-wireframe.png)
+    * Gigs page wireframe - ![gigs page wireframe](assets/images/gigs-wireframe.png)
+    * Contact page wireframe - ![contact page wireframe](assets/images/contact-wireframe.png)
 
 ## Features
 
@@ -76,8 +76,8 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C HTML validator results - [view](assets/images/HTML validator.png)
-* W3C CSS validator results - [view](assets/images/CSS validator.png)
+* W3C HTML validator results - ![HTML validator results](assets/images/html-validator.png)
+* W3C CSS validator results - ![CSS validator results](assets/images/css-validator.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
