@@ -34,6 +34,9 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
     * Imagery
         * The websites most eye catching feature is the full screen sized background image of the band in live performance, with a dark overlay on it. The band are very much a 'live band' and wanted this to be the main feature of the website, and what people will first see when they visit. The dark overlay and darker colours used throughout correspond to the darker and heavier musical style of the group.
 
+    * Layout
+        * The website has been designed with several unconventional design choices in mind. This is to go along with the sense of unconventional artistic originality that is important to the band. For exmaple, the content on each page has been centered, with the links to social media directly to the side of the main content.
+
 * ### Wireframes
 
     * Home page wireframe - view
@@ -90,12 +93,47 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         * (a) to be able to contact the band for various reasons
             * contact.html is clearly visible in the navbar at the bottom of the page. The text prompt 'What's on your mind?' is general and inviting to the user.
         * (b) to be able to hear different songs from the band
-            * on the music.html page is a Spotify music player where the user can find several songs snippets from the band. If the user is logged into their Spotify account then they can hear the full song. This player updates according to the most popular songs from the band on Spotify
+            * On the music.html page is a Spotify music player where the user can find several songs snippets from the band. If the user is logged into their Spotify account then they can hear the full song. This player updates according to the most popular songs from the band on Spotify
 
     * Frequent user goals
         * (a) to keep up to date with live appearances that the band are making.
             * gig.html is clearly visible in the navbar at the bottom of the page. The gig listings present on this page will be regularly updated and added to.
-        * (b)
-            * 
-        * (c)
-            * 
+        * (b) to quickly see what the band are pushing/most proud of right now
+            * In the bottom center of the home page is a callout that currently says 'Debut single 'Dogs Dinner' out now'. This immediately notifies the user of what the band are currently promoting, and will be periodically updated. 
+
+### Further testing
+
+* Through Google Chrome Dev tools the website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+* The links between pages on the navbar were tested thoroughly to ensure that they all work.
+* Friends and family were consulted and asked to use the website to further ensure of the websites strong functionality.
+
+## Deploymnent
+
+### The project was deployed to Github using the following method:
+
+    1. Login to Github and find the correct Github repository
+    2. At the top of the repository click 'Settings'
+    3. Scroll down the settings options until you get to the 'Github pages' section, click 'Check it out here!'
+    4. On the source dropdown menu, select 'main'
+    5. The page will automatically refresh
+    6. Scroll back through the page to locate the now published site link in the "GitHub Pages" section
+
+## Credits
+
+### Code
+
+* Bootstrap 5 was used frequently throughout project development for the purposes of responsiveness and grid system layout
+
+### Content
+
+* All content was written by the developer
+
+### Media
+
+* The background image was taken by Gabe Jones with usage rights belonging to Frakard
+* All other images were created by the developer
+
+### Acknowledgements
+
+* My Mentor Anthony Ugwu for help particularly in the early stages of development.
+* Code Institute Tutor support for continuous practical tips and advice.
