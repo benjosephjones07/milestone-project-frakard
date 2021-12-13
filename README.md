@@ -4,7 +4,7 @@ View live project here
 
 This is the website for musical artists, Frakard. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for new fans, long time listeners, and music lovers looking for more information.
 
-! [frakard mockups](https://github.com/benjosephjones07/milestone-project-frakard/blob/3e0648994405c660665f49b2f158ea28d1e75f94/assets/images/Frakard-mockups.png)
+![frakard mockups](assets/images/Frakard-mockups.png)
 ---
 ## User Experience (UX)
 
@@ -39,11 +39,11 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 * ### Wireframes
 
-    * Home page wireframe - view
-    * Music page wireframe - view
-    * Video page wireframe - view
-    * Gigs page wireframe - view
-    * Contact page wireframe - view
+    * Home page wireframe - [view](https://github.com/benjosephjones07/milestone-project-frakard/blob/7096bf9842b752f81015b4a8a4913dc857900372/assets/images/Home wireframe.png)
+    * Music page wireframe - [view](https://github.com/benjosephjones07/milestone-project-frakard/blob/7096bf9842b752f81015b4a8a4913dc857900372/assets/images/Music wireframe.png)
+    * Video page wireframe - [view](https://github.com/benjosephjones07/milestone-project-frakard/blob/7096bf9842b752f81015b4a8a4913dc857900372/assets/images/Video wireframe.png)
+    * Gigs page wireframe - [view](https://github.com/benjosephjones07/milestone-project-frakard/blob/7096bf9842b752f81015b4a8a4913dc857900372/assets/images/Gigs wireframe.png)
+    * Contact page wireframe - [view](https://github.com/benjosephjones07/milestone-project-frakard/blob/7096bf9842b752f81015b4a8a4913dc857900372/assets/images/Contact wireframe.png)
 
 ## Features
 
@@ -76,8 +76,8 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C HTML validator results - view
-* W3C CSS validator results - view
+* W3C HTML validator results - [view]()
+* W3C CSS validator results - [view]()
 
 ### Testing User Stories from User Experience (UX) Section
 
