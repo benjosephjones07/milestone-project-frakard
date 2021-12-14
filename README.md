@@ -4,7 +4,7 @@ View live project here
 
 This is the website for musical artists, Frakard. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for new fans, long time listeners, and music lovers looking for more information.
 
-![frakard mockups](assets/images/Frakard-mockups.png)
+![frakard mockups](assets/images/frakard-mockups.png)
 ---
 ## User Experience (UX)
 
@@ -36,6 +36,9 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
 
     * __Layout__
         * The website has been designed with several unconventional design choices in mind. This is to go along with the sense of unconventional artistic originality that is important to the band. For example, the content on each page has been centered, with the links to social media directly to the side of the main content. There is also very little written content in terms of description of the band - this is to preserve a sense of mystery around the band and let the music stand on it's own without preconceived notions.
+
+    * __Progression from wireframes__
+        * As can be seen below, the wireframes were adhered to quite rigidly, with the exception of music.html. Once construction on the site began it was decided by the developer that the coverflow design was for the moment beyond his capabilities and would prove too time consuming.
 
 * ### Wireframes
 
@@ -79,6 +82,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * W3C HTML validator results - ![HTML validator results](assets/images/html-validator.png)
 * W3C CSS validator results - ![CSS validator results](assets/images/css-validator.png)
 
+The validators flagged up a few errors that came with the iframes embedded from Spotify and Youtube. Their code contained outdated html that needed to be corrected, including incorrect html height and width units.
+
 ### Testing User Stories from User Experience (UX) Section
 
 * __First time visitor goals__
@@ -106,6 +111,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * Through Google Chrome Dev tools the website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 * The links between pages on the navbar were tested thoroughly to ensure that they all work.
 * Friends and family were consulted and asked to use the website to further ensure of the websites strong functionality.
+* Some difficulty was encountered between the usage of Bootstrap functionality and custom CSS stylings, where undesired and unexpected outcomes occured, especially when attempting to centre certain sections of the website, and in mobile responsiveness. The decision was eventually made to use Boostrap as the foundation of the website, and custom CSS only when needed.
 
 ## Deploymnent
 
