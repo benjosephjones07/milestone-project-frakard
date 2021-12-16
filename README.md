@@ -4,7 +4,7 @@ View live project here
 
 This is the website for musical artists, Frakard. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for new fans, long time listeners, and music lovers looking for more information.
 
-![frakard mockups](assets/images/frakard-mockups.png)
+![frakard mockups](assets/images/frakard-mockups-2.png)
 ---
 ## User Experience (UX)
 
@@ -114,7 +114,7 @@ The validators flagged up a few errors that came with the iframes embedded from 
 * Some difficulty was encountered between the usage of Bootstrap functionality and custom CSS stylings, where undesired and unexpected outcomes occured, especially when attempting to centre certain sections of the website, and in mobile responsiveness. The decision was eventually made to use Boostrap as the foundation of the website, and custom CSS only when needed.
 * The Lighthouse feature on Google's dev tools was used and the site was edited accordingly. For example, alt text was added to the social links icons, "noopener" tags were added to them also to help ensure safety and conformity to best practise, and a meta description was added to the head of each page to improve SEO.
 
-## Deploymnent
+## Deployment
 
 ### The project was deployed to Github using the following method:
 

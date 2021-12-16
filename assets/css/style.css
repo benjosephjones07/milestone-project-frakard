@@ -174,7 +174,7 @@ input[type=button], input[type=submit]:hover {
 
 /* ------ Media queries ------- */
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 1024px) {
   body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
       url("../images/frakard-mobile-bg-2.jpeg");
