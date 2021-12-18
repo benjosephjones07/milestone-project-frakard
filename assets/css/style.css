@@ -10,6 +10,10 @@ body {
   background-repeat: no-repeat;
 }
 
+.hidden-header {
+  display: none;
+}
+
 /* ------ Navbar ------- */
 
 .navbar-toggler-icon {
@@ -149,9 +153,9 @@ input[type=button], input[type=submit]:hover {
 
 /* ------ Gig listings ------- */
 
-.gig-listings h2 {
+.gig-listings h1 {
   text-transform: uppercase;
-  letter-spacing: 25px;
+  letter-spacing: 20px;
 }
 
 .gig-listings ul a {

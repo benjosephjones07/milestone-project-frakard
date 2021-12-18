@@ -37,6 +37,9 @@ This is the website for musical artists, Frakard. It is designed to be responsiv
     * __Layout__
         * The website has been designed with several unconventional design choices in mind. This is to go along with the sense of unconventional artistic originality that is important to the band. For example, the content on each page has been centered, with the links to social media directly to the side of the main content. There is also very little written content in terms of description of the band - this is to preserve a sense of mystery around the band and let the music stand on it's own without preconceived notions.
 
+    * __Minimalism__
+        * The website has been designed according to the principles of the currently popular ethos of minimalism. This includes cutting out additional details, a simple colour palette, and lots of empty space. It is for this reason that the headings on each page are hidden (yet still included in the code for SEO and screen reader compatibility). 
+
     * __Progression from wireframes__
         * As can be seen below, the wireframes were adhered to quite rigidly, with the exception of music.html. Once construction on the site began it was decided by the developer that the coverflow design was for the moment beyond his capabilities and would prove too time consuming.
 
