@@ -1,6 +1,6 @@
 # Frakard Website
 
-View live project here
+View live project [here](https://benjosephjones07.github.io/milestone-project-frakard/)
 
 This is the website for musical artists, Frakard. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for new fans, long time listeners, and music lovers looking for more information.
 
@@ -127,7 +127,7 @@ The validators flagged up a few errors that came with the iframes embedded from 
 2. At the top of the repository click 'Settings'
 3. Scroll down the settings options until you get to the 'Github pages' section, click 'Check it out here!'
 4. On the source dropdown menu, select 'main'
-5. The page will automatically refresh
+5. The page will automatically refresh, then click save.
 6. Scroll back through the page to locate the now published site link in the "GitHub Pages" section
 
 ## Credits
